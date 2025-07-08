@@ -1,0 +1,46 @@
+#nv ul {
+    list-style: none;
+    display: flex;
+    gap:10px
+}
+#head{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+#head a{
+    text-decoration: none;
+}
+
+.card-content{
+display: grid;
+   grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    max-width: 700px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.card{
+  width: 200px;
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px saddlebrown;
+}
+.card:hover{
+    background-color: aqua;
+}
+#bod{
+    max-width: 1270px;
+    margin: 0 auto;
+    align-items: center;
+}
+#card-Ssecation{
+    text-align: center;
+    color: #000;
+    font-size: larger;
+}
+.card p{
+    text-align: left;
+}

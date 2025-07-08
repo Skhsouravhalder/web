@@ -1,0 +1,133 @@
+.plus-jakarta-sans text {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.head-title{
+    color: #FD6E0A;
+}
+.head-ti{
+    font-size: 40px;
+    font-weight: 800;
+}
+.head{
+    display: flex;
+    justify-content:space-between;
+    margin: 0px 230px 0px 226px;
+}
+header nav ul{
+   display: flex;
+   align-items: center;
+   
+}
+header nav ul li{
+    list-style: none;
+    margin-right: 51px;
+    padding: 18px 0px 19px 0px;
+    font-size: 20px;
+}
+header nav ul li a{
+    text-decoration: none;
+    
+}
+.dark-2{
+    color: #474747;
+}
+.dark-1{
+    color: #181818;
+}
+.dark-3{
+    color: #757575;
+}
+.btn-parimary{
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    padding: 18px 35px 19px 36px;
+    border-radius: 5px;
+}
+/* baner style */
+.baner-title{
+    font-weight: 600;
+    font-size: 45px;
+}
+.baner-title-2{
+    font-size: 85px;
+    font-weight: bold;
+}
+.baner-dic{
+font-size: 18px;
+font-weight: 400;
+}
+.banaer-1{
+    display: flex;
+    margin: 0px 72px 0px 196px;
+}
+.image-profile{
+    width: 584px;
+    height: 676px;
+}
+.image-head{
+    background-image:url(/images/developer.png) , url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: left top, right bottom;
+   
+    
+}
+.secation-color{
+    background-color: #FFF8F3;
+}
+/* main style */
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-secation-color{
+    padding: 130px 150px;
+    border-radius: 10px;
+    margin-top: 130px;
+    text-align: center;
+   
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+  
+    
+}
+.item-title{
+    color: #757575;
+}
+.item-dc{
+    color:#474747;
+}
+.skil-title{
+    text-align: center;
+   font-size: 35px;
+   font-weight: bold;
+}
+.skil-dic{
+    text-align: center;
+    font-size: 18;
+    
+}
+.skil{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+  
+}
+.ti-1{
+    box-shadow: 0px 6px 50px 0px #000000;
+    border-radius: 5px;
+      padding: 30px;
+     
+}
+ 
+  .margin-section{
+     margin-top: 130px;
+     margin-bottom: 130px;
+ }
