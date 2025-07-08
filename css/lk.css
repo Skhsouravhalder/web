@@ -131,3 +131,9 @@ font-weight: 400;
      margin-top: 130px;
      margin-bottom: 130px;
  }
+ .resum-title{
+    text-align:center;
+ }
+ .resum-father{
+    display: flex;
+ }
