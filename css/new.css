@@ -99,7 +99,7 @@ header nav div ul li{
    /* margin: 130px 230px 130px 230px; */
     /* width: 1140px;
     height: 550px; */
-   
+  
     padding: 131px 190px 131px 123px;
 }
 .about-2{
@@ -130,14 +130,10 @@ header nav div ul li{
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
   border-radius: 5px;
 }
-.tit{
-    text-align: center;
-    align-items: center;
-}
-.resum-head {
-    display: flex;
 
-}
-.ds{
+.resum{
     display: flex;
+}
+.bg-co{
+    background-color: white;
 }
